@@ -4,7 +4,7 @@ Pour appliquer le theme sur wordpress :
 
 1 - Aller sur le panel d'administration
 
-2 - Aller sur Apparances -> Themes
+2 - Aller sur Apparences -> Themes
 
 3 - Appuyer sur Ajouter
 
